@@ -18,6 +18,6 @@ https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift/supple
 - Kubernetes Objects - Part 2 (Service, ClusterIP, NodePort, ELB, Ingress, DaemonSet, StatefulSet, Job)
 - Using Kubectl
 - Lab 2a: Introduction to Kubernetes Objects
-- Ingress Objects vs. Ingress Controller
-- Kubernetes Antipatterns
+- Reading 2a: Ingress Objects vs. Ingress Controller
+- Reading 2b: Kubernetes Antipatterns
 - Lab 2b: Introduction to Kubernetes

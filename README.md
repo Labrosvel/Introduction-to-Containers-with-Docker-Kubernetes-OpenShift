@@ -15,7 +15,7 @@ https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift/supple
 - Introduction to Kubernetes
 - Kubernetes Architecture
 - Kubernetes Objects - Part 1 (Labels, Namespaces, Pods, ReplicaSet, Deployment) 
-- Kubernetes Objects - Part 2
+- Kubernetes Objects - Part 2 (Service, ClusterIP, NodePort, ELB, Ingress, DaemonSet, StatefulSet, Job)
 - Using Kubectl
 - Lab 2a: Introduction to Kubernetes Objects
 - Ingress Objects vs. Ingress Controller

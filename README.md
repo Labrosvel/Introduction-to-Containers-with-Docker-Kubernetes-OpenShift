@@ -21,3 +21,15 @@ https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift/supple
 - Reading 2a: Ingress Objects vs. Ingress Controller
 - Reading 2b: Kubernetes Antipatterns
 - Lab 2b: Introduction to Kubernetes
+
+## Module 3: Managing Applications with Kubernetes
+- ReplicaSet
+- Autoscaling
+- Reading 3a: Deployment Strategies
+- Rolling Updates
+- ConfigMaps and Secrets
+- Service Binding
+- Lab 3a: Scaling and Updating Applications
+- Reading 3b: Transforming Retail - The impact of Kubernetes and Containerization
+- Lab 3b: Autoscaling and Secrets Management
+

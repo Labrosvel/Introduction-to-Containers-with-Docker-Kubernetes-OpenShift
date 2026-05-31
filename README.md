@@ -38,5 +38,5 @@ https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift/supple
 - Builds
 - Operators
 - Istio
-- Reading 4: Automating Builds with Build Triggers in OpenShift
+- Reading 4: Automating Builds with Build Triggers in OpenShift (Webhook Triggers, Image Change Triggers, Configuration Change Triggers)
 - Lab 4: Introduction to Red Hat OpenShift

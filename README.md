@@ -35,7 +35,7 @@ https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift/supple
 
 ## Module 4: Kubernetes Ecosystem: OpenShift, Istio, etc.
 - Introduction to Red Hat OpenShift
-- Builds
+- Builds (BuildConfig, Build strategies: Source-to-Image, Docker, Custom)
 - Operators
 - Istio
 - Reading 4: Automating Builds with Build Triggers in OpenShift (Webhook Triggers, Image Change Triggers, Configuration Change Triggers)

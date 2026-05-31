@@ -33,3 +33,10 @@ https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift/supple
 - Reading 3b: Transforming Retail - The impact of Kubernetes and Containerization
 - Lab 3b: Autoscaling and Secrets Management
 
+## Module 4: Kubernetes Ecosystem: OpenShift, Istio, etc.
+- Introduction to Red Hat OpenShift
+- Builds
+- Operators
+- Istio
+- Reading 4: Automating Builds with Build Triggers in OpenShift
+- Lab 4: Introduction to Red Hat OpenShift
